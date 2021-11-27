@@ -34,11 +34,7 @@ public class HypervisorRemoteControlClient {
 	private void init(String ip, String port, String command) {
 		loggerSetUp();
 		
-		log.info("Hypervisor Remote Control Client"
-				+ "\tLast update: March 1st, 2019, Integrity control in sendFile");
-
-		log.info("Running a remote task: Ip address: " + ip
-				+ " Port: " + port + " Command: " + command);
+		
 
 		try {
 			clientSocket = new Socket(ip, Integer.parseInt(port));

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ClientUpdater:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClientUpdater_jar</output-path>
+    <root id="archive" name="HRC.jar">
+      <element id="module-output" name="HRC" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/04 - Código Fuente/HypervisorRemoteControl/lib/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/04 - Código Fuente/HypervisorRemoteControl/lib/jcommander-1.72.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/04 - Código Fuente/HypervisorRemoteControl/lib/log4j-1.2.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/05 - Jars/HRCClient.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/05 - Jars/HRCServer.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

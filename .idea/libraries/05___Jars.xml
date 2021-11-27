@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="05 - Jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/05 - Jars/HRCClient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/05 - Jars/HRCServer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

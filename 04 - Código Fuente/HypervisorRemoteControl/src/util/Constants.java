@@ -6,4 +6,6 @@ public class Constants {
 	public final static String SPACE = " ";
 	public final static String SEMICOLON = ";";
 	public final static String COLON = ":";
+	public final static String COMMA = ",";
+
 }

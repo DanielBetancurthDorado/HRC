@@ -1,0 +1,218 @@
+10-28-2021 11:37:38,258 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 11:37:38,258 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 11:37:38,352 INFO  HRCClient:FROM SERVER: 
+
+10-28-2021 11:40:56,758 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 11:40:56,758 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 11:40:56,821 INFO  HRCClient:FROM SERVER: 
+
+10-28-2021 11:43:51,665 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 11:43:51,665 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 11:43:51,712 INFO  HRCClient:FROM SERVER: 
+
+10-28-2021 12:03:19,620 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 12:03:19,620 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 12:04:44,309 INFO  HRCClient:FROM SERVER: ssh: connect to host deploy.sh port 22: Connection timed out
+
+
+10-28-2021 12:07:54,777 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 12:07:54,777 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 12:09:19,184 INFO  HRCClient:FROM SERVER: ssh: connect to host deploy.sh port 22: Connection timed out
+
+
+10-28-2021 12:14:54,497 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 12:14:54,513 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 12:14:54,575 INFO  HRCClient:FROM SERVER: done
+
+10-28-2021 12:15:19,481 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 12:15:19,481 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 12:15:19,716 INFO  HRCClient:FROM SERVER: done
+
+10-28-2021 12:37:41,328 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 12:37:41,328 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 12:37:41,547 INFO  HRCClient:FROM SERVER:  El volumen de la unidad H es SV20000037 El n?mero de serie del volumen es: 2000-0037 Directorio de H:\Desktop\HRC28/10/2021  11:28 a. m.    <DIR>          .27/10/2021  04:07 p. m.    <DIR>          ..27/10/2021  04:07 p. m.           227,914 01 - Manual de Usuario.pdf27/10/2021  04:07 p. m.           278,728 03 - Manual de desarrollo.pdf27/10/2021  04:07 p. m.    <DIR>          04 - C?digo Fuente27/10/2021  04:07 p. m.    <DIR>          05 - Jars27/10/2021  04:07 p. m.           179,019 06 - Registro HRC.pdf27/10/2021  04:09 p. m.               607 HRC.iml28/10/2021  11:21 a. m.               412 hrc.properties28/10/2021  11:28 a. m.    <DIR>          Logs28/10/2021  11:28 a. m.    <DIR>          out               5 archivos        686,680 bytes               6 dirs   1,358,546,944 bytes libres
+
+10-28-2021 12:39:35,719 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 12:39:35,719 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 12:39:35,938 INFO  HRCClient:FROM SERVER:  El volumen de la unidad H es SV20000037 El n?mero de serie del volumen es: 2000-0037 Directorio de H:\Desktop\HRC28/10/2021  11:28 a. m.    <DIR>          .27/10/2021  04:07 p. m.    <DIR>          ..28/10/2021  11:33 a. m.    <DIR>          .idea27/10/2021  04:07 p. m.           227,914 01 - Manual de Usuario.pdf27/10/2021  04:07 p. m.           278,728 03 - Manual de desarrollo.pdf27/10/2021  04:07 p. m.    <DIR>          04 - C?digo Fuente27/10/2021  04:07 p. m.    <DIR>          05 - Jars27/10/2021  04:07 p. m.           179,019 06 - Registro HRC.pdf27/10/2021  04:09 p. m.               607 HRC.iml28/10/2021  11:21 a. m.               412 hrc.properties28/10/2021  11:28 a. m.    <DIR>          Logs28/10/2021  11:28 a. m.    <DIR>          out               5 archivos        686,680 bytes               7 dirs   1,358,543,872 bytes libres
+
+10-28-2021 12:43:01,579 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 12:43:01,579 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 12:43:45,094 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 12:43:45,110 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 12:43:45,329 INFO  HRCClient:FROM SERVER: "sh" no se reconoce como un comando interno o externo,programa o archivo por lotes ejecutable.
+
+10-28-2021 12:44:41,157 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 12:44:41,157 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 12:44:41,376 INFO  HRCClient:FROM SERVER:  El volumen de la unidad H es SV20000037 El n?mero de serie del volumen es: 2000-0037 Directorio de H:\Desktop\HRC28/10/2021  11:28 a. m.    <DIR>          .27/10/2021  04:07 p. m.    <DIR>          ..27/10/2021  04:07 p. m.           227,914 01 - Manual de Usuario.pdf27/10/2021  04:07 p. m.           278,728 03 - Manual de desarrollo.pdf27/10/2021  04:07 p. m.    <DIR>          04 - C?digo Fuente27/10/2021  04:07 p. m.    <DIR>          05 - Jars27/10/2021  04:07 p. m.           179,019 06 - Registro HRC.pdf27/10/2021  04:09 p. m.               607 HRC.iml28/10/2021  11:21 a. m.               412 hrc.properties28/10/2021  11:28 a. m.    <DIR>          Logs28/10/2021  11:28 a. m.    <DIR>          out               5 archivos        686,680 bytes               6 dirs   1,358,539,776 bytes libres
+
+10-28-2021 12:47:12,548 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 12:47:12,548 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 12:47:12,751 INFO  HRCClient:FROM SERVER:  El volumen de la unidad H es SV20000037 El n?mero de serie del volumen es: 2000-0037 Directorio de H:\Desktop\HRC28/10/2021  11:28 a. m.    <DIR>          .27/10/2021  04:07 p. m.    <DIR>          ..27/10/2021  04:07 p. m.           227,914 01 - Manual de Usuario.pdf27/10/2021  04:07 p. m.           278,728 03 - Manual de desarrollo.pdf27/10/2021  04:07 p. m.    <DIR>          04 - C?digo Fuente27/10/2021  04:07 p. m.    <DIR>          05 - Jars27/10/2021  04:07 p. m.           179,019 06 - Registro HRC.pdf27/10/2021  04:09 p. m.               607 HRC.iml28/10/2021  11:21 a. m.               412 hrc.properties28/10/2021  11:28 a. m.    <DIR>          Logs28/10/2021  11:28 a. m.    <DIR>          out               5 archivos        686,680 bytes               6 dirs   1,358,537,728 bytes libres
+
+10-28-2021 12:50:08,528 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 12:50:08,529 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 12:50:08,742 INFO  HRCClient:FROM SERVER: 
+
+10-28-2021 12:50:49,116 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 12:50:49,118 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 12:50:49,327 INFO  HRCClient:FROM SERVER: 
+
+10-28-2021 12:51:17,115 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 12:51:17,117 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 12:51:17,168 INFO  HRCClient:FROM SERVER: 
+
+10-28-2021 12:51:37,618 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 12:51:37,620 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 12:51:37,829 INFO  HRCClient:FROM SERVER: 
+
+10-28-2021 12:52:06,461 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 12:52:06,462 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 12:52:06,692 INFO  HRCClient:FROM SERVER: 
+
+10-28-2021 12:55:44,545 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 12:55:44,546 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 12:55:56,562 INFO  HRCClient:FROM SERVER: 
+
+10-28-2021 12:56:38,913 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 12:56:38,915 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 12:56:51,805 INFO  HRCClient:FROM SERVER: 
+
+10-28-2021 15:30:09,227 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 15:30:09,228 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 15:30:44,040 INFO  HRCClient:FROM SERVER: 
+
+10-28-2021 15:47:09,085 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 15:47:09,087 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: deploy.sh
+10-28-2021 15:48:35,873 INFO  HRCClient:FROM SERVER: 
+
+10-28-2021 16:00:32,050 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 16:00:32,050 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script
+10-28-2021 16:01:41,759 INFO  HRCClient:FROM SERVER: 
+
+10-28-2021 18:42:41,423 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 18:42:41,423 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script
+10-28-2021 18:44:46,673 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 18:44:46,689 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script
+10-28-2021 18:47:46,893 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 18:47:46,893 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script
+10-28-2021 18:47:46,939 INFO  HRCClient:FROM SERVER: 
+
+10-28-2021 18:56:22,363 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 18:56:22,378 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script
+10-28-2021 18:56:22,425 INFO  HRCClient:FROM SERVER: 
+
+10-28-2021 19:00:49,677 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 19:00:49,677 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat
+10-28-2021 19:00:49,723 INFO  HRCClient:FROM SERVER: 
+
+10-28-2021 19:03:27,161 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 19:03:27,161 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntu21server
+10-28-2021 19:03:27,208 INFO  HRCClient:FROM SERVER: 
+
+10-28-2021 19:03:57,380 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 19:03:57,380 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntu21server,Ubuntu_64,8192,4,157.253.201.140,test,password
+10-28-2021 19:03:57,427 INFO  HRCClient:FROM SERVER: 
+
+10-28-2021 19:16:02,085 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 19:16:02,085 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntu21server,Ubuntu_64,8192,4,157.253.201.140,test,password
+10-28-2021 19:16:26,429 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 19:16:26,429 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntu21server,Ubuntu_64,8192,4,157.253.201.140,test,password
+10-28-2021 19:16:26,460 INFO  HRCClient:FROM SERVER: 
+
+10-28-2021 19:17:11,382 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 19:17:11,382 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntu21server,Ubuntu_64,8192,4,157.253.201.140,test,password
+10-28-2021 19:17:53,757 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-28-2021 19:17:53,757 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntu21server,Ubuntu_64,8192,4,157.253.201.140,test,password
+10-28-2021 19:19:03,972 INFO  HRCClient:FROM SERVER: 
+
+10-29-2021 16:20:52,037 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-29-2021 16:20:52,039 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntu22server,Ubuntu_64,8192,4,157.253.201.141,test1,password1
+10-29-2021 16:22:30,490 INFO  HRCClient:FROM SERVER: 
+
+10-29-2021 16:28:40,659 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-29-2021 16:28:40,660 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntu22server,Ubuntu_64,8192,4,157.253.201.133,test1,password1
+10-29-2021 16:29:46,300 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-29-2021 16:29:46,301 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntu23server,Ubuntu_64,8192,4,157.253.201.133,test1,password1
+10-29-2021 16:31:24,318 INFO  HRCClient:FROM SERVER: 
+
+10-29-2021 16:39:48,053 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-29-2021 16:39:48,055 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntuserver,Ubuntu_64,8192,4,157.253.201.180,test1,password1
+10-29-2021 16:41:27,318 INFO  HRCClient:FROM SERVER: 
+
+10-29-2021 16:45:49,189 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-29-2021 16:45:49,190 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntuserver,Ubuntu_64,8192,4,157.253.201.180,test1,password1
+10-29-2021 16:46:36,307 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-29-2021 16:46:36,309 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntuserver1,Ubuntu_64,8192,4,157.253.201.180,test1,password1
+10-29-2021 16:48:43,995 INFO  HRCClient:FROM SERVER: 
+
+10-29-2021 16:55:01,019 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-29-2021 16:55:01,020 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntuserver2,Ubuntu_64,8192,4,157.253.201.181,test1,password1
+10-29-2021 16:57:09,542 INFO  HRCClient:FROM SERVER: 
+
+10-29-2021 17:00:04,628 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-29-2021 17:00:04,629 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntuserver3,Ubuntu_64,8192,4,157.253.201.181,test1,password1
+10-29-2021 17:01:44,870 INFO  HRCClient:FROM SERVER: 
+
+10-29-2021 17:04:50,214 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-29-2021 17:04:50,215 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntuserver4,Ubuntu_64,8192,4,157.253.201.182,test1,password1
+10-29-2021 17:06:58,336 INFO  HRCClient:FROM SERVER: 
+
+10-29-2021 17:13:43,989 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-29-2021 17:13:43,991 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntuserver5,Ubuntu_64,8192,4,157.253.201.182,test1,password1
+10-29-2021 17:15:53,698 INFO  HRCClient:FROM SERVER: 
+
+10-29-2021 17:17:56,747 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-29-2021 17:17:56,748 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntuserver6,Ubuntu_64,8192,4,157.253.201.183,test1,password1
+10-29-2021 17:21:04,426 INFO  HRCClient:FROM SERVER: 
+
+10-29-2021 17:23:30,256 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-29-2021 17:23:30,257 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntuserver,Ubuntu_64,8192,4,157.253.201.180,test1,password1
+10-29-2021 17:23:56,465 INFO  HRCClient:FROM SERVER: 
+
+10-29-2021 17:37:45,039 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-29-2021 17:37:45,039 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntuserver,Ubuntu_64,8192,4,157.253.201.180,test1,password1
+10-29-2021 17:37:52,614 INFO  HRCClient:FROM SERVER: 
+
+10-29-2021 17:40:03,933 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-29-2021 17:40:03,934 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntuserver1,Ubuntu_64,8192,4,157.253.201.180,test1,password1
+10-29-2021 17:42:12,088 INFO  HRCClient:FROM SERVER: 
+
+10-29-2021 17:43:36,059 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-29-2021 17:43:36,061 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntuserver2,Ubuntu_64,8192,4,157.253.201.180,test1,password1
+10-29-2021 17:46:14,548 INFO  HRCClient:FROM SERVER: 
+
+10-29-2021 17:47:34,393 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-29-2021 17:47:34,394 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntuserver3,Ubuntu_64,8192,4,157.253.201.180,test1,password1
+10-29-2021 17:50:43,609 INFO  HRCClient:FROM SERVER: 
+
+10-29-2021 17:52:23,044 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-29-2021 17:52:23,045 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntuserver4,Ubuntu_64,8192,4,157.253.201.181,test1,password1
+10-29-2021 17:56:03,475 INFO  HRCClient:FROM SERVER: 
+
+10-29-2021 17:57:05,584 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-29-2021 17:57:05,585 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntuserver5,Ubuntu_64,8192,4,157.253.201.182,test1,password1
+10-29-2021 18:00:44,552 INFO  HRCClient:FROM SERVER: 
+
+10-29-2021 18:02:17,392 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+10-29-2021 18:02:17,393 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntuserver5,Ubuntu_64,8192,4,157.253.201.182,test1,password1
+10-29-2021 18:06:26,849 INFO  HRCClient:FROM SERVER: 
+
+11-04-2021 18:49:00,639 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+11-04-2021 18:49:00,639 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntuserver,Ubuntu_64,8192,4,157.253.201.186,test1,password1
+11-04-2021 18:52:40,984 INFO  HRCClient:FROM SERVER: 
+
+11-04-2021 18:57:40,310 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+11-04-2021 18:57:40,310 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntuserver,Ubuntu_64,8192,4,157.253.201.186,test1,password1
+11-04-2021 19:01:19,694 INFO  HRCClient:FROM SERVER: 
+
+11-04-2021 19:03:46,879 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+11-04-2021 19:03:46,879 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntuserver,Ubuntu_64,8192,4,157.253.201.185,test1,password1
+11-04-2021 19:07:25,898 INFO  HRCClient:FROM SERVER: 
+
+11-04-2021 19:11:54,899 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+11-04-2021 19:11:54,900 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntuserver,Ubuntu_64,8192,4,157.253.201.185,test1,password1
+11-04-2021 19:16:24,579 INFO  HRCClient:Hypervisor Remote Control Client	Last update: May 7th, 2019, time record in HRC Server
+11-04-2021 19:16:24,579 INFO  HRCClient:Running a remote task: Ip address: 157.253.201.179 Port: 3600 Command: script.bat,ubuntu20server,Ubuntu_64,8192,4,157.253.201.185,test1,password1
+11-04-2021 19:20:03,458 INFO  HRCClient:FROM SERVER: 
+

@@ -1,0 +1,148 @@
+10-28-2021 11:28:54,569 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 11:32:07,038 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 11:33:45,835 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 11:34:15,929 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 11:37:38,289 INFO  HRCServer:Connection incoming ...
+10-28-2021 11:37:38,336 INFO  HRCServer:deploy.sh
+10-28-2021 11:40:52,587 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 11:40:56,774 INFO  HRCServer:Connection incoming ...
+10-28-2021 11:40:56,806 INFO  HRCServer:deploy.sh
+10-28-2021 11:40:56,806 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 11:40:56,806 INFO  HRCServer:Error while executing C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 11:40:56,806 INFO  HRCServer:
+10-28-2021 11:43:48,149 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 11:43:51,680 INFO  HRCServer:Connection incoming ...
+10-28-2021 11:43:51,696 INFO  HRCServer:deploy.sh
+10-28-2021 11:43:51,696 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 11:43:51,712 INFO  HRCServer:Error while executing C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 11:43:51,712 INFO  HRCServer:
+10-28-2021 12:02:42,980 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 12:03:19,636 INFO  HRCServer:Connection incoming ...
+10-28-2021 12:03:19,667 INFO  HRCServer:deploy.sh
+10-28-2021 12:03:19,667 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 12:04:44,309 INFO  HRCServer:ssh: connect to host deploy.sh port 22: Connection timed out
+10-28-2021 12:04:44,309 INFO  HRCServer:ssh: connect to host deploy.sh port 22: Connection timed out
+
+10-28-2021 12:07:50,887 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 12:07:54,793 INFO  HRCServer:Connection incoming ...
+10-28-2021 12:07:54,824 INFO  HRCServer:deploy.sh
+10-28-2021 12:07:54,824 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 12:09:19,184 INFO  HRCServer:ssh: connect to host deploy.sh port 22: Connection timed out
+10-28-2021 12:09:19,184 INFO  HRCServer:ssh: connect to host deploy.sh port 22: Connection timed out
+
+10-28-2021 12:14:51,356 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 12:14:54,529 INFO  HRCServer:Connection incoming ...
+10-28-2021 12:14:54,544 INFO  HRCServer:deploy.sh
+10-28-2021 12:14:54,544 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 12:14:54,560 INFO  HRCServer:done
+10-28-2021 12:15:16,372 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 12:15:19,497 INFO  HRCServer:Connection incoming ...
+10-28-2021 12:15:19,513 INFO  HRCServer:deploy.sh
+10-28-2021 12:15:19,513 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 12:15:19,716 INFO  HRCServer:done
+10-28-2021 12:37:34,765 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 12:37:41,344 INFO  HRCServer:Connection incoming ...
+10-28-2021 12:37:41,375 INFO  HRCServer:deploy.sh
+10-28-2021 12:37:41,375 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 12:37:41,547 INFO  HRCServer: El volumen de la unidad H es SV20000037 El n�mero de serie del volumen es: 2000-0037 Directorio de H:\Desktop\HRC28/10/2021  11:28 a. m.    <DIR>          .27/10/2021  04:07 p. m.    <DIR>          ..27/10/2021  04:07 p. m.           227,914 01 - Manual de Usuario.pdf27/10/2021  04:07 p. m.           278,728 03 - Manual de desarrollo.pdf27/10/2021  04:07 p. m.    <DIR>          04 - C�digo Fuente27/10/2021  04:07 p. m.    <DIR>          05 - Jars27/10/2021  04:07 p. m.           179,019 06 - Registro HRC.pdf27/10/2021  04:09 p. m.               607 HRC.iml28/10/2021  11:21 a. m.               412 hrc.properties28/10/2021  11:28 a. m.    <DIR>          Logs28/10/2021  11:28 a. m.    <DIR>          out               5 archivos        686,680 bytes               6 dirs   1,358,546,944 bytes libres
+10-28-2021 12:39:31,609 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 12:39:35,734 INFO  HRCServer:Connection incoming ...
+10-28-2021 12:39:35,766 INFO  HRCServer:deploy.sh
+10-28-2021 12:39:35,766 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 12:39:35,922 INFO  HRCServer: El volumen de la unidad H es SV20000037 El n�mero de serie del volumen es: 2000-0037 Directorio de H:\Desktop\HRC28/10/2021  11:28 a. m.    <DIR>          .27/10/2021  04:07 p. m.    <DIR>          ..28/10/2021  11:33 a. m.    <DIR>          .idea27/10/2021  04:07 p. m.           227,914 01 - Manual de Usuario.pdf27/10/2021  04:07 p. m.           278,728 03 - Manual de desarrollo.pdf27/10/2021  04:07 p. m.    <DIR>          04 - C�digo Fuente27/10/2021  04:07 p. m.    <DIR>          05 - Jars27/10/2021  04:07 p. m.           179,019 06 - Registro HRC.pdf27/10/2021  04:09 p. m.               607 HRC.iml28/10/2021  11:21 a. m.               412 hrc.properties28/10/2021  11:28 a. m.    <DIR>          Logs28/10/2021  11:28 a. m.    <DIR>          out               5 archivos        686,680 bytes               7 dirs   1,358,543,872 bytes libres
+10-28-2021 12:42:58,657 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 12:43:01,594 INFO  HRCServer:Connection incoming ...
+10-28-2021 12:43:01,625 INFO  HRCServer:deploy.sh
+10-28-2021 12:43:01,625 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 12:43:43,204 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 12:43:45,126 INFO  HRCServer:Connection incoming ...
+10-28-2021 12:43:45,141 INFO  HRCServer:deploy.sh
+10-28-2021 12:43:45,141 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 12:43:45,329 INFO  HRCServer:"sh" no se reconoce como un comando interno o externo,programa o archivo por lotes ejecutable.
+10-28-2021 12:44:37,782 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 12:44:41,173 INFO  HRCServer:Connection incoming ...
+10-28-2021 12:44:41,204 INFO  HRCServer:deploy.sh
+10-28-2021 12:44:41,204 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 12:44:41,376 INFO  HRCServer: El volumen de la unidad H es SV20000037 El n�mero de serie del volumen es: 2000-0037 Directorio de H:\Desktop\HRC28/10/2021  11:28 a. m.    <DIR>          .27/10/2021  04:07 p. m.    <DIR>          ..27/10/2021  04:07 p. m.           227,914 01 - Manual de Usuario.pdf27/10/2021  04:07 p. m.           278,728 03 - Manual de desarrollo.pdf27/10/2021  04:07 p. m.    <DIR>          04 - C�digo Fuente27/10/2021  04:07 p. m.    <DIR>          05 - Jars27/10/2021  04:07 p. m.           179,019 06 - Registro HRC.pdf27/10/2021  04:09 p. m.               607 HRC.iml28/10/2021  11:21 a. m.               412 hrc.properties28/10/2021  11:28 a. m.    <DIR>          Logs28/10/2021  11:28 a. m.    <DIR>          out               5 archivos        686,680 bytes               6 dirs   1,358,539,776 bytes libres
+10-28-2021 12:47:09,735 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 12:47:12,564 INFO  HRCServer:Connection incoming ...
+10-28-2021 12:47:12,579 INFO  HRCServer:deploy.sh
+10-28-2021 12:47:12,595 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 12:47:12,751 INFO  HRCServer: El volumen de la unidad H es SV20000037 El n�mero de serie del volumen es: 2000-0037 Directorio de H:\Desktop\HRC28/10/2021  11:28 a. m.    <DIR>          .27/10/2021  04:07 p. m.    <DIR>          ..27/10/2021  04:07 p. m.           227,914 01 - Manual de Usuario.pdf27/10/2021  04:07 p. m.           278,728 03 - Manual de desarrollo.pdf27/10/2021  04:07 p. m.    <DIR>          04 - C�digo Fuente27/10/2021  04:07 p. m.    <DIR>          05 - Jars27/10/2021  04:07 p. m.           179,019 06 - Registro HRC.pdf27/10/2021  04:09 p. m.               607 HRC.iml28/10/2021  11:21 a. m.               412 hrc.properties28/10/2021  11:28 a. m.    <DIR>          Logs28/10/2021  11:28 a. m.    <DIR>          out               5 archivos        686,680 bytes               6 dirs   1,358,537,728 bytes libres
+10-28-2021 12:50:05,183 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 12:50:08,545 INFO  HRCServer:Connection incoming ...
+10-28-2021 12:50:08,569 INFO  HRCServer:deploy.sh
+10-28-2021 12:50:08,571 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 12:50:08,737 INFO  HRCServer:
+10-28-2021 12:50:46,902 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 12:50:49,134 INFO  HRCServer:Connection incoming ...
+10-28-2021 12:50:49,158 INFO  HRCServer:deploy.sh
+10-28-2021 12:50:49,160 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 12:50:49,322 INFO  HRCServer:
+10-28-2021 12:51:09,991 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 12:51:17,132 INFO  HRCServer:Connection incoming ...
+10-28-2021 12:51:17,156 INFO  HRCServer:deploy.sh
+10-28-2021 12:51:17,158 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 12:51:17,162 INFO  HRCServer:
+10-28-2021 12:51:35,572 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 12:51:37,635 INFO  HRCServer:Connection incoming ...
+10-28-2021 12:51:37,659 INFO  HRCServer:deploy.sh
+10-28-2021 12:51:37,661 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 12:51:37,824 INFO  HRCServer:
+10-28-2021 12:52:02,688 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 12:52:06,478 INFO  HRCServer:Connection incoming ...
+10-28-2021 12:52:06,501 INFO  HRCServer:deploy.sh
+10-28-2021 12:52:06,503 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 12:52:06,687 INFO  HRCServer:
+10-28-2021 12:55:40,709 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 12:55:44,561 INFO  HRCServer:Connection incoming ...
+10-28-2021 12:55:44,587 INFO  HRCServer:deploy.sh
+10-28-2021 12:55:44,589 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 12:55:56,557 INFO  HRCServer:
+10-28-2021 12:56:36,185 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 12:56:38,929 INFO  HRCServer:Connection incoming ...
+10-28-2021 12:56:38,954 INFO  HRCServer:deploy.sh
+10-28-2021 12:56:38,956 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 12:56:51,800 INFO  HRCServer:
+10-28-2021 15:29:59,948 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 15:30:09,243 INFO  HRCServer:Connection incoming ...
+10-28-2021 15:30:09,268 INFO  HRCServer:deploy.sh
+10-28-2021 15:30:09,269 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 15:30:44,035 INFO  HRCServer:
+10-28-2021 15:47:05,799 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 15:47:09,100 INFO  HRCServer:Connection incoming ...
+10-28-2021 15:47:09,126 INFO  HRCServer:deploy.sh
+10-28-2021 15:47:09,130 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\deploy.sh
+10-28-2021 15:48:35,866 INFO  HRCServer:
+10-28-2021 15:58:41,658 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 16:00:32,065 INFO  HRCServer:Connection incoming ...
+10-28-2021 16:00:32,081 INFO  HRCServer:script
+10-28-2021 16:00:32,081 INFO  HRCServer:Running: C:\Users\d.betancurth\VirtualBox VMs\Scripts\script
+10-28-2021 16:01:41,753 INFO  HRCServer:
+10-28-2021 18:39:13,625 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 18:42:30,641 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 18:44:42,845 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 18:44:46,704 INFO  HRCServer:Connection incoming ...
+10-28-2021 18:44:46,720 INFO  HRCServer:script
+10-28-2021 18:44:46,720 INFO  HRCServer:Running: script
+10-28-2021 18:47:42,564 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 18:47:46,908 INFO  HRCServer:Connection incoming ...
+10-28-2021 18:47:46,924 INFO  HRCServer:script
+10-28-2021 18:55:45,176 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 18:56:20,458 INFO  HRCServer:Hypervisor Remote Control Server is running ... in ther port: 3600	Last update: March 1st, 2019, Integrity control in sendFile
+10-28-2021 18:56:22,394 INFO  HRCServer:Connection incoming ...
+10-28-2021 18:56:22,410 INFO  HRCServer:script
+10-28-2021 18:56:22,410 INFO  HRCServer:clientMessage
+10-28-2021 18:56:22,410 INFO  HRCServer:script
+10-28-2021 19:00:49,677 INFO  HRCServer:Connection incoming ...
+10-28-2021 19:00:49,708 INFO  HRCServer:script.bat
+10-28-2021 19:00:49,708 INFO  HRCServer:clientMessage
+10-28-2021 19:00:49,723 INFO  HRCServer:script.bat
+10-28-2021 19:03:27,177 INFO  HRCServer:Connection incoming ...
+10-28-2021 19:03:27,192 INFO  HRCServer:script.bat,ubuntu21server
+10-28-2021 19:03:27,208 INFO  HRCServer:clientMessage
+10-28-2021 19:03:27,208 INFO  HRCServer:script.bat,ubuntu21server
+10-28-2021 19:03:57,396 INFO  HRCServer:Connection incoming ...
+10-28-2021 19:03:57,427 INFO  HRCServer:script.bat,ubuntu21server,Ubuntu_64,8192,4,157.253.201.140,test,password
+10-28-2021 19:03:57,427 INFO  HRCServer:clientMessage
+10-28-2021 19:03:57,427 INFO  HRCServer:script.bat,ubuntu21server,Ubuntu_64,8192,4,157.253.201.140,test,password
